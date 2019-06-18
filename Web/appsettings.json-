@@ -1,0 +1,16 @@
+﻿{
+  "ConnectionStrings": {
+    "CatalogConnection": "Server=127.0.0.1,1433;User ID=sa;Password=P@ssw0rd;Database=Microsoft.eShopOnWeb.CatalogDb;",
+    "IdentityConnection": "Server=127.0.0.1,1433;User ID=sa;Password=P@ssw0rd;Database=Microsoft.eShopOnWeb.Identity;"
+  },
+  "CatalogBaseUrl": "",
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft": "Warning",
+      "System": "Warning"
+    },
+    "AllowedHosts": "*"
+  }
+}
